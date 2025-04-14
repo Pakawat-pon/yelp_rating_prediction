@@ -61,8 +61,8 @@ This is the **Streamlit frontend** that:
 
 ```bash
 git clone https://github.com/Pakawat-pon/Pakawat.pon.git
-cd yelp-rating-prediction-app
-
+cd yelp_rating_prediction
+```
 ### Step 2: Set up environment
 pip install -r requirements.txt
 
