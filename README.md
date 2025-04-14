@@ -1,4 +1,4 @@
-# 🌟 Yelp Business Rating Prediction Streamli Web App
+# 🌟 Yelp Business Rating Prediction Streamlit Web App
 
 This project predicts the Yelp rating for a new business using a simple Random Forest model. The system is divided into two parts:
 
